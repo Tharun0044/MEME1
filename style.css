@@ -1,0 +1,26 @@
+*{
+    background-color: black;
+}
+
+div{
+font-family: Libre Baskerville;
+color: white;
+}
+
+#image{
+    width: 50%;
+    margin-top: 10%;
+    margin-left: 25%;
+    border: 5px solid white;
+    text-align: center;
+}
+
+#GOAT {
+font-size: 10px;
+text-align: center;
+}
+
+#des{
+text-align: center;
+font-size: 10px;
+}
