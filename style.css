@@ -1,26 +1,23 @@
 *{
-    background-color: black;
+    background-color: purple;
 }
 
 div{
-font-family: Libre Baskerville;
-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
 }
 
-#image{
-    width: 50%;
-    margin-top: 10%;
-    margin-left: 25%;
-    border: 5px solid white;
+img{
+    padding-top: 40px;
+    padding-left: 360px;
+
+}
+
+#A {
+    font-size: x-large;
     text-align: center;
 }
 
-#GOAT {
-font-size: 10px;
-text-align: center;
-}
-
-#des{
-text-align: center;
-font-size: 10px;
+.B {
+    text-align: center;
 }
